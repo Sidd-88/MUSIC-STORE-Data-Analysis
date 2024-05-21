@@ -1,6 +1,7 @@
 Here, we have Data access to a Music Store company. This company wants to expand its business across the globe so it needs some specific data from its data store to get
 the maximum output, efficiency and profit.
 Here, we have some business requirements where we are fetching data from the Music company Raw Data by using complex SQL on SSMS (SQL SERVER MANAGEMENT STUDIO).
+
 HERE ARE THE BUSINESS REQUIREMENTS THAT WE NEED TO IMPLEMENT TO FETCH DATA BY USING SQL
 
 Business Requirement_1 -> Here, as per Business requirement we need to fetch the e-mail, name & Genre of all the customers who listen to Rock music so that the company can provide some vouchers to them.
