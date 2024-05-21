@@ -1,2 +1,2 @@
-Here, we have a business requirement where we have to fetch the email, first name, last name, & Genre of all Rock Music listeners. 
-The list should be ordered alphabetically by email starting with A.
+Here, as per Business requirement we need to fetch email, name & Genre of all the customers who listens Rock music so that company will provide some vouchers to them.
+So, we are Writing a query to return the email, first name, last name, & Genre of all Rock Music listeners. 
