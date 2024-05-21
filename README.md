@@ -5,7 +5,7 @@ Here, we have some business requirements where we are fetching data from the Mus
 HERE ARE THE BUSINESS REQUIREMENTS THAT WE NEED TO IMPLEMENT TO FETCH DATA BY USING SQL
 
 Business Requirement_1 -> Here, as per Business requirement we need to fetch the e-mail, name & Genre of all the customers who listen to Rock music so that the company can provide some vouchers to them.
-So, we are Writing a query to return the email, first name, last name, & Genre of all Rock Music listeners. 
+So, we are Writing a query to return the email, first name, last name & Genre of all Rock Music listeners. 
 
 
 Business Requirement_2 -> As per Business need, the Music company wants to invite the artists who have written the most rock music.
