@@ -1,2 +1,3 @@
-Here, as per Business requirement we need to fetch email, name & Genre of all the customers who listens Rock music so that company will provide some vouchers to them.
-So, we are Writing a query to return the email, first name, last name, & Genre of all Rock Music listeners. 
+As per Business need , Music company wants to invite the artists who have written the most rock music.
+So we need to fetch data with Artist name and total track count of the top 10 rock bands.
+
